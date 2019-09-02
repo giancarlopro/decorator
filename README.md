@@ -2,6 +2,10 @@
 
 No [final desta página](#exemplo) existe um exemplo do problema que o padrão decorator resolve.
 
+## Diagrama
+
+![diagrama](image/diagrama.png)
+
 ## Implementação
 
 Interface principal que possui os métodos que serão utilizados
